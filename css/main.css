@@ -77,8 +77,9 @@
   background-color: darkslategray;
   color: white;
 }
-.header > a:hover {
-  background-color: white;
+.header > div> a:hover {
+  color: white;
+  background-color: darkslategray;
   transition: all 300ms linear;
 }
 
